@@ -8,3 +8,5 @@
 
 - run style sass --watch assets/src/scss:assets/dist/css --style compressed
 
+- to view visit [datatable from scratch vanilla javascript!!!](https://watchmena.ml/datatable)
+
